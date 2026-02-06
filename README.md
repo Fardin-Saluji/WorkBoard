@@ -63,7 +63,10 @@ This project helped me gain hands-on experience with:
 ---
 
 🔗 LinkedIn:
+
 https://www.linkedin.com/in/fardinsaluji/
+
+---
 
 ## 📁 Folder Structure
 
