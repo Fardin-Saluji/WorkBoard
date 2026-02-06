@@ -62,6 +62,9 @@ This project helped me gain hands-on experience with:
 
 ---
 
+🔗 LinkedIn:
+https://www.linkedin.com/in/fardinsaluji/
+
 ## 📁 Folder Structure
 
 ```bash
@@ -104,5 +107,4 @@ WorkBoard/
 Fardin Saluji
 Full Stack Web Developer (MERN)
 
-🔗 LinkedIn:
-👉 https://www.linkedin.com/in/fardinsaluji/
+
